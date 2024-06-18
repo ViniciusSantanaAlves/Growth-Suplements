@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[131],{628:function(n,t,e){"use strict";e.r(t);var o={},a=e(11),r=Object(a.a)(o,(function(){var n=this._self._c;return n("main",[n("produtoCategoria")],1)}),[],!1,null,"7d3ed859",null);t.default=r.exports}}]);
